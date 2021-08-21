@@ -1,0 +1,5 @@
+128 128 128                     NX NY NZ
+1.00e-0  1.00e-00 1.00e-00      DX/DY/DZ
+1.0e-08                         EPSICCG
+48                              PEsmpTOT
+1                               NFLAG
